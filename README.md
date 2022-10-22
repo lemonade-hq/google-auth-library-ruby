@@ -1,7 +1,7 @@
 # Google Auth Library for Ruby
 
-This is a fork of the original library, to allow us to change the package dependecies versions (JWT & Faraday) - see .gemspec file for changes
-We set the gem version (the main branch) to the tag 0.5.2, which is the version we used to use in the monolith as a dependency
+**This is a fork of the original library, to allow us to change the package dependecies versions (JWT & Faraday) - see .gemspec file for changes
+We set the gem version (the main branch) to the tag 0.5.2, which is the version we used to use in the monolith as a dependency**
 
 <dl>
   <dt>Homepage</dt><dd><a href="http://www.github.com/google/google-auth-library-ruby">http://www.github.com/google/google-auth-library-ruby</a></dd>
