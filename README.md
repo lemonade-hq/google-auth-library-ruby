@@ -1,5 +1,7 @@
 # Google Auth Library for Ruby
 
+This is a fork of the original library, to allow us to change the package dependecies versions (JWT) - see .gemspec file for changes
+
 <dl>
   <dt>Homepage</dt><dd><a href="http://www.github.com/google/google-auth-library-ruby">http://www.github.com/google/google-auth-library-ruby</a></dd>
   <dt>Authors</dt><dd><a href="mailto:temiola@google.com">Tim Emiola</a></dd>
